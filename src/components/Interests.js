@@ -1,4 +1,5 @@
 import React from "react";
+import { ThemeContext } from "../context/theme";
 
 function Interests({ interests, theme }) {
   return (
