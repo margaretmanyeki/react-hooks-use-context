@@ -1,4 +1,5 @@
 import React from "react";
+import { userContext } from "../context/user";
 import Interests from "./Interests";
 
 function Profile({ user, theme }) {
